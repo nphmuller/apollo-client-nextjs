@@ -23,13 +23,13 @@
     "react@18.2.0": "18.3.0-canary-60a927d04-20240113",
     "react-dom@18.2.0": "18.3.0-canary-60a927d04-20240113",
     "superjson": "1.13.3",
-    "@microsoft/api-documenter": "7.24.1"
+    "@microsoft/api-documenter": "7.24.10"
   },
   "devDependencies": {
-    "@microsoft/api-documenter": "7.24.3",
-    "@size-limit/file": "11.1.2",
-    "@size-limit/webpack": "11.1.2",
-    "@size-limit/webpack-why": "11.1.2",
-    "size-limit": "11.1.2"
+    "@microsoft/api-documenter": "7.24.10",
+    "@size-limit/file": "11.1.4",
+    "@size-limit/webpack": "11.1.4",
+    "@size-limit/webpack-why": "11.1.4",
+    "size-limit": "11.1.4"
   }
 }
